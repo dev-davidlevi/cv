@@ -1,0 +1,32 @@
+body {
+  background-color: #93B5C6;
+}
+
+.profile-picture {
+  height: 200px;
+  width: 200px;
+  border-radius: 15%;
+  cursor: pointer;
+  clear: left;
+}
+
+.a {
+  cursor: auto;
+  text-decoration: none;
+}
+
+.a2 {
+  text-decoration: none;
+  color: blue;
+  cursor: context-menu;
+}
+
+.color2 {
+  /** background-color: #E4D8DC; **/
+  border-radius: 10px;
+}
+
+table, th, td {
+  /** border: solid 1px #C9CCD5; **/
+  border-spacing: 10px;
+}
